@@ -43,4 +43,4 @@ The assignment focuses on:
 
 ---
 
-\_This project demonstrates foundational web development skills, emphasizing semantic HTML, structured content, and consistent styling across multiple pages.\_
+_This project demonstrates foundational web development skills, emphasizing semantic HTML, structured content, and consistent styling across multiple pages._
