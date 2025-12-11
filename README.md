@@ -44,3 +44,7 @@ The assignment focuses on:
 ---
 
 _This project demonstrates foundational web development skills, emphasizing semantic HTML, structured content, and consistent styling across multiple pages._
+
+**Course:** CS 648 - Advanced Topics in Web and Mobile Applications<br>
+**University:** San Diego State University (SDSU)<br>
+**Author:** Merlyn Mercylona M
