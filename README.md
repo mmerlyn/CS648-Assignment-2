@@ -1,5 +1,7 @@
 # CS648-Assignment
 
+_This project demonstrates foundational web development skills, emphasizing semantic HTML, structured content, and consistent styling across multiple pages._
+
 ## Overview
 
 This repository contains a four-page website for **Vecta Corp.**, created as part of **CS648 Assignment 2**. The website demonstrates proper use of HTML5 semantic structure, text-level markup, and navigation between multiple pages.
@@ -42,8 +44,6 @@ The assignment focuses on:
 4. Practicing proper web design workflow, including page linking and content duplication.
 
 ---
-
-_This project demonstrates foundational web development skills, emphasizing semantic HTML, structured content, and consistent styling across multiple pages._
 
 **Course:** CS 648 - Advanced Topics in Web and Mobile Applications<br>
 **University:** San Diego State University (SDSU)<br>
